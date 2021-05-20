@@ -1,1 +1,3 @@
 New File 6
+
+Added a new line after Tag V1.0
